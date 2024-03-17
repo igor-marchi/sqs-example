@@ -19,4 +19,4 @@ Este projeto cria uma filas SQS no LocalStack:
 
 - `example-queue`
 
-Você pode interagir com essas filas usando o AWS CLI configurado para usar o endpoint do LocalStack.
+Você pode interagir com essa fila usando o AWS CLI configurado para usar o endpoint do LocalStack, ou se preferir, pela interface gráfica acessando [localstack](https://app.localstack.cloud/dashboard).
